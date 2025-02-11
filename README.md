@@ -4,7 +4,7 @@ An android library to help detect mock locations
 # Gradle
 Add the next dependency to your _gradle.build_
 
-    compile 'com.inforoeste.mocklocationdetector:mock-location-detector:1.0.0'
+    compile 'com.inforoeste.mocklocationdetector:mock-location-detector:1.24.51'
 
 # Usage
 From anywhere on your code just call the class MockLocationDetector to access the following available static methods
